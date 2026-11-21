@@ -13,7 +13,9 @@
     "seed": "npm run seed --prefix server"
   },
   "devDependencies": {
-    "concurrently": "^8.2.2"
+    "@vitejs/plugin-react": "^4.7.0",
+    "concurrently": "^8.2.2",
+    "vite": "^6.4.6"
   },
   "engines": {
     "node": ">=18.0.0"
